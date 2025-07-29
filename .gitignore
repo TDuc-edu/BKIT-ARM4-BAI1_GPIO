@@ -1,0 +1,25 @@
+# Build files
+/Debug/
+/Release/
+/build/
+
+# STM32CubeIDE
+*.launch
+*.log
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+*.dep
+*.cproject
+*.project
+.settings/
+/STM32CubeIDE/
+
+# System
+*.swp
+*.tmp
+*.DS_Store
